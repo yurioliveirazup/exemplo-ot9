@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="br.com.zup.edu.TipoIngressoTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-11-19T14:42:46" hostname="zup-003415.local" time="0.038">
-  <properties/>
-  <testcase name="Deve retornar o mesmo valor do ingresso quando o tipo for inteira" classname="br.com.zup.edu.TipoIngressoTest" time="0.035"/>
-  <testcase name="Nao deve permitir receber valores negativos" classname="br.com.zup.edu.TipoIngressoTest" time="0.002"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
